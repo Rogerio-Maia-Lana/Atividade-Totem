@@ -28,5 +28,5 @@ class Menu:
         }
 if __name__ == "__main__":
     menu = Menu()
-    
+    dados = menu.exibir_menu()
     
